@@ -1,5 +1,5 @@
 # CNS 2022 Tutorial - Ionostasis at the Tripartite Synapse
-Tutorial of neuron-astrocyte interactions model given at CNS 2022 in Melbourne.
+Tutorial of neuron-astrocyte interactions model given at 31st Annual Computational Neuroscience Meeting CNS*2022 in Melbourne.
 #### Session T2: Models of Neuron-Glial Interactions - Mass-balance models for glia-mediated ion homeostasis.
 
 ## Description of the tutorial
